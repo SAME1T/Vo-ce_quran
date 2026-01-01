@@ -1,0 +1,22 @@
+# Frontend
+web/node_modules/
+web/.next/
+web/.env.local
+web/.env*.local
+
+# Backend
+ml-service/.venv/
+ml-service/__pycache__/
+ml-service/*.pyc
+ml-service/.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+

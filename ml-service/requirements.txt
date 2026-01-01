@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+faster-whisper
+rapidfuzz
+imageio-ffmpeg
+requests
+pydantic
+numpy
+

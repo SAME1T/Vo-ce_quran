@@ -1,0 +1,19 @@
+Kuran Metni İndirme Komutu
+===========================
+
+Backend terminalinde (backend çalışırken) şu komutu çalıştırın:
+
+cd ml-service
+python scripts\fetch_quran_text.py
+
+Veya backend durdurulmuşsa, yeni bir PowerShell penceresi açın:
+
+cd "C:\Users\The Coder Farmer\Desktop\Voıce_quran\ml-service"
+.\.venv\Scripts\Activate.ps1
+python scripts\fetch_quran_text.py
+
+Script başarılı olursa:
+- "✓ Kuran metni başarıyla indirildi" mesajı görünecek
+- Backend'i yeniden başlatın (Ctrl+C ile durdurup tekrar başlatın)
+- Tarayıcıda sayfayı yenileyin (F5)
+
